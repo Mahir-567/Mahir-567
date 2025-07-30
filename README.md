@@ -24,15 +24,7 @@ Coder, creator, and problem solver. Always curious and excited to build somethin
 
 <p align="left"> <a href="https://www.github.com/Mahir-567" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="Github" title="Github" /> </picture> </a></p>
 
-### Badges
 
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/Mahir-567"><img src="https://github-readme-stats.vercel.app/api?username=Mahir-567&show_icons=true&hide=&count_private=true&title_color=f97316&text_color=22c55e&icon_color=facc15&bg_color=171717&hide_border=true&show_icons=true" alt="Mahir-567's GitHub stats" /></a>
-
-<a href="http://www.github.com/Mahir-567"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Mahir-567&stroke=22c55e&background=171717&ring=f97316&fire=f97316&currStreakNum=22c55e&currStreakLabel=f97316&sideNums=22c55e&sideLabels=22c55e&dates=22c55e&hide_border=true" /></a>
-
-<a href="https://github.com/Mahir-567" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahir-567&langs_count=10&title_color=f97316&text_color=22c55e&icon_color=facc15&bg_color=171717&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Mahir-567&theme=ambient_gradient&hide_border=false&include_all_commits=false&count_private=false)<br/>

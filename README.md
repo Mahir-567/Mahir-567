@@ -33,3 +33,16 @@ Coder, creator, and problem solver. Always curious and excited to build somethin
 <a href="http://www.github.com/Mahir-567"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Mahir-567&stroke=22c55e&background=171717&ring=f97316&fire=f97316&currStreakNum=22c55e&currStreakLabel=f97316&sideNums=22c55e&sideLabels=22c55e&dates=22c55e&hide_border=true" /></a>
 
 <a href="https://github.com/Mahir-567" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahir-567&langs_count=10&title_color=f97316&text_color=22c55e&icon_color=facc15&bg_color=171717&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Mahir-567&theme=ambient_gradient&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Mahir-567&theme=ambient_gradient&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mahir-567&theme=ambient_gradient&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Mahir-567&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Mahir-567&icon=2&color=10)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
